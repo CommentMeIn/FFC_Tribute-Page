@@ -1,0 +1,68 @@
+<!DOCTYPE HTML>
+<html>
+<main id= "main">
+<head>
+	<title>P.G. Wodehouse</title>
+</head>
+<body>	
+<h1 id="title">P. G. Wodehouse</h1>
+	<h3>The man who 'sat at the typewriter, cursed a bit,' and wrote 96 novels.</h3>
+	
+  <div id="img-div">
+		<img id="image" src="https://upload.wikimedia.org/wikipedia/commons/c/c8/PGWodehouse.jpg" 
+	alt="P. G. Wodehouse in 1904"/>
+	<figcaption id = "img-caption">Me in 1904. If my smile was any wider, it would have met at the back.</figcaption>
+</div>
+
+<section id="tribute-info">
+  <ul>
+    <li><em>October 15, 1881</em> - Born in Surrey and christened, much to my chargrin, Pelham Grenville Wodehouse. As soon as possible, I shortened this to "Plum".</li> 
+
+<blockquote>"If you ask me to tell you frankly if I like the name Pelham Grenville Wodehouse, I must confess that I do not. ... I was named after a godfather, and not a thing to show for it but a small silver mug which I lost in 1897."</blockquote>
+
+    <li><em>Also 1881 - </em>Went to China with Mum.</li>
+
+  <li><em>1883 - </em>Sent back to England. Apparently two years of me was the standard dose for adults overseas in those days.</li>
+
+  <li><em>1886 - </em>Started school in Croydon, followed by stints in Guernsey, Kent, and eventually Dulwich College (a boy's boarding school in London). I loved Dulwich. </li>
+<blockquote>"I know I was writing stories when I was five. I don’t remember what I did before that. Just loafed, I suppose."</blockquote>
+
+  <li><em>1900 -</em> Went, reluctantly, into banking to bolster up the fading family finances. </li>
+<blockquote>"The wolf was not actually whining at the door and there was always a little something in the kitty for the butcher and the grocer, but the finances would not run to anything in the nature of a splash."</blockquote>
+<li><em>
+  Also 1900 -</em> Got my first comic piece published in a magazine.</li>
+
+  <li><em>1902 - </em>Published my first novel, a school story called <i>The Pothunters</i>. Resigned from boring bank job and went into writing full-time. In the next seven years, wrote eight novels and co-wrote two more.</li>
+
+    <li><em>1904 - </em>Started writing for the stage; for the next 30 years, I would also work on plays, musical comedies, song lyrics, sketches, screenplays, etc.</li>
+
+  <li><em>1908 - </em>Introduced Psmith (the P is silent).  Psmith would go on to star in three novels from 1908 to 1923.</li> 
+
+  <li><em>1914 - </em>Married the lovely and intelligent Ethel May Wayman and adopted her daughter.</li>
+  </ul>
+
+<h2>And this is when it gets good</h2>
+<ul>
+  <li><em>1915 - </em> The first appearance of Jeeves and Wooster. Also, the first Blandings Castle novel hits the presses.</li>
+<li><em>
+  1920s - </em>Developed my most famous characters, Bertie Wooster and Lord Emsworth of Blandings. And Jeeves, of course. </li>
+<li><em>
+  1930s - </em>Worked in Hollywood and wrote more novels, including Right Ho, Jeeves and Uncle Fred in the Springtime.</li>
+<li><em>
+  1940s - </em>Got into some difficulties re stupid wartime broadcasts. Patched it up, but went to America in 1946. And stayed there. "Of course I ought to have had the sense to see that it was a loony thing to do to use the German radio for even the most harmless stuff, but I didn't. I suppose prison life saps the intellect."</li>
+
+<blockquote> "I never was interested in politics. I'm quite unable to work up any kind of belligerent feeling. Just as I'm about to feel belligerent about some country I meet a decent sort of chap. We go out together and lose any fighting thoughts or feelings."</blockquote>
+<li><em>
+  1952-1975 - </em>Published 20+ novels and reams of short stories. You can count them if you want to. I don't.</li>
+<li><em>
+  1975 </em>- Awarded a knighthood back home in Blighty. Odd, considering I'd never been back since the war.  And then I died. </li>
+
+<blockquote> "Mr Wodehouse's idyllic world can never stale. He will continue to release future generations from captivity that may be more irksome than our own. He has made a world for us to live in and delight in." -- Evelyn Waugh</blockquote>
+
+Download free Wodehouse e-books on <a href="https://www.amazon.com/Jeeves-Wooster-Glorious-Adventures-Springtime-ebook/dp/B07KFHQ34D/" target="_blank">Amazon</a> and <a href = "http://www.gutenberg.org/ebooks/author/783" target = "_blank">Project Gutenberg.</a>
+
+Read more on <a id="tribute-link" href="https://en.wikipedia.org/wiki/P._G._Wodehouse" target="_blank">Wikipedia.
+</section>
+</main>
+</body>
+</html>
